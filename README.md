@@ -8,6 +8,7 @@ This repository contains a simple and effective web crawler written in Python. I
 - Avoids crawling the same URL twice
 - Provides colored terminal output
 
+
 ## Usage
 
 1. Clone this repository
@@ -36,11 +37,13 @@ python3 crawler.py
 ```
 
 
+
 ## Note 
 
 if the site has rate limiting you can uncomment this line `time.sleep(random.uniform(1, 2))` in the script to avoid any IP blocks.
 
 ![image](https://github.com/chamber0x0/WebCrawler/assets/160602770/c308b749-5963-4322-abe2-b919c9d170f8)
+
 
 
 
