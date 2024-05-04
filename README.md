@@ -6,8 +6,8 @@ This repository contains a simple and effective web crawler written in Python. I
 ## Features
 
 - Navigates webpages within a given domain
-- Avoids crawling the same URL twice
-- Provides colored terminal output
+- Avoids duplicates
+- Provides formatted output for btter readability
 - Supports crawling multiple domains from a list
 - Supports using a proxy for the requests
 
